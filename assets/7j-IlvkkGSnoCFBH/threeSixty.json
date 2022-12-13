@@ -1,0 +1,27 @@
+{
+  "version": "3.67.28569.0",
+  "course_id": "6I857bbz3oL_course_id",
+  "title": "Navigating the Peace Map",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6BQI6fr9PYg",
+      "title": "The Milestones",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
